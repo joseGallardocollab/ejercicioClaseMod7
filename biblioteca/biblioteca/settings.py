@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'db_biblioteca',
         'USER':  'root',
-        'PASSWORD': 'Gabianleyenda4149.ñ',
+        'PASSWORD': 'otracontraseña.ñ',
         'HOST': 'localhost',
         'PORT':'3306',
         'OPTIONS': {
