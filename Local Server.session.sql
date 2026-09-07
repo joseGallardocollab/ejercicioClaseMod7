@@ -1,0 +1,1 @@
+CREATE DATABASE db_biblioteca CHARACTER SET utf8mb4;
